@@ -17,7 +17,7 @@
     height="150"
     x="0"
     y="0"
-    href="https://imgbb.com/"><img src="https://i.ibb.co/rkXKnG9/logo.png" alt="logo"
+    href="https://i.ibb.co/rkXKnG9/logo.png"
   />
   </svg>
 </template>
